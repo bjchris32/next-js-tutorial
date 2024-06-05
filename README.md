@@ -1,7 +1,10 @@
 # next-js-tutorial
 learning from the site: https://nextjs.org/
 
-* Take away:
+## How to start the server?
+* `npm run dev`
+
+## Take away
 NextJS use `Client Component` and `Server Component` to render the page.
 NextJS uses `Server Component` to share the components across pages. 
 `Client Component` is used to interact with users and store states.
